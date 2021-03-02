@@ -3,4 +3,4 @@
 
 ## Перевод .ui в .py:
 
-`python -m PyQt5.uic.pyuic -x untitled.ui -o untitled.py` 
+`python3 -m PyQt5.uic.pyuic -x untitled.ui -o untitled.py` 
